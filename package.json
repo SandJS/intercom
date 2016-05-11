@@ -1,0 +1,28 @@
+{
+  "name": "sand-intercom",
+  "version": "1.0.0",
+  "description": "Intercom.io support",
+  "main": "lib/Intercom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SandJS/intercom.git"
+  },
+  "keywords": [
+    "sand",
+    "intercom",
+    "intercom.io"
+  ],
+  "author": "Craig Thayer <cthayer@sazze.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandJS/intercom/issues"
+  },
+  "homepage": "https://github.com/SandJS/intercom",
+  "dependencies": {
+    "intercom.io": "^1.2.1",
+    "sand-grain": "^1.1.1"
+  }
+}
